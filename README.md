@@ -28,8 +28,9 @@ Update your setup.py and package.xml accordingly.
 
 Run the node using:
 
-bash
-ros2 run your_package_name node
+  bash
+  ros2 run your_package_name node
+
 Architecture Changes
 Previous Version:
 
